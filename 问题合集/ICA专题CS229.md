@@ -107,7 +107,13 @@ ICA（独立成分分析）的目的是从观测到的混合信号中分离出�
 
 </details>
 <details>
-<summary>滤波器</summary> 
+<summary>白化处理</summary> 
+
+  # 白化处理（Whitening）
+
+![image](https://github.com/BoBo1529707515/EEG-analyse/assets/145309276/9849de12-55b0-4173-97a2-8dc6fc20e2ee)
+![image](https://github.com/BoBo1529707515/EEG-analyse/assets/145309276/7e7bba76-3ae4-478f-8617-98199ec18aa8)
+
 </details>
 <details>
 <summary>滤波器</summary> 
