@@ -121,6 +121,8 @@ $$
 $$
 \lambda_1 = 1.94, \quad \lambda_2 = 0.06
 $$
+![企业微信截图_17206808469426](https://github.com/BoBo1529707515/EEG-analyse/assets/145309276/7271ab10-aea9-4cbc-8ecc-83f0fc0c3022)
+
 
 对应的特征向量为：
 
