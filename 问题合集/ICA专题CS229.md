@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/03788f6c-caca-4c44-9a31-501a80e3a2f2)
+
 <details>
 <summary>ICA算法的基本步骤</summary> 
   独立成分分析（ICA）是一种用于从混合信号中分离出独立源信号的技术。其基本步骤如下：
