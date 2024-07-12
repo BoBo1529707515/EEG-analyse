@@ -78,3 +78,6 @@ $$
 3. **迭代更新**：
    $$\mathbf{w}_{\text{new}} = \mathbf{X}_w \cdot \tanh(\mathbf{W}^T \mathbf{X}_w) - \text{mean}[1 - \tanh^2(\mathbf{W}^T \mathbf{X}_w)] \cdot \mathbf{W}
    $$
+   
+![image](https://github.com/user-attachments/assets/01cb9728-ed56-4d86-81d5-dfc7939a85ad)
+![image](https://github.com/user-attachments/assets/7d53d93d-0b74-468a-aea5-524b86592221)
